@@ -4,4 +4,3 @@
 <p>Nuril Amada (3323600032) <br/>
 Mochammad Ariel Sulton (3323600054)</p>
 <halo aku nuril>
-<halo aku ariel>
